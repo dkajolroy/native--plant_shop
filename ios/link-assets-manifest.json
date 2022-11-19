@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/disco_paradisco.otf",
+      "sha1": "afa3ddd6fcd77ddfedced65df4321b4ea88d621d"
+    },
+    {
+      "path": "src/assets/fonts/solaimanlipi.ttf",
+      "sha1": "7f2a604746089fd7872c26740d7daf4ea0f25ffb"
+    }
+  ]
+}
